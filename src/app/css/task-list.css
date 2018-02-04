@@ -1,0 +1,63 @@
+.taskListStyle{
+    margin-right:205px;
+    margin-top:50px
+} 
+
+ .headerStyle{
+    position: relative;
+    left: 20px;
+}
+
+.linkStyle{
+    font-family:verdana;
+    font-size:15px;
+    color: grey; 
+    text-decoration: none!important;
+}
+
+.textBoxStyle{
+    outline:none;
+    background:transparent;
+    color:white;
+    font-family:verdana;
+    font-size:30px;
+    width:550px;
+    height:50px;
+    border: none;
+}
+
+.flex{
+    margin-top:100px;
+    margin-right:505px;
+}
+
+.submitStyle{
+    display:none;
+}
+
+.trStyle{
+    border-bottom: 1px dotted #fff;
+}
+
+.tableStyle{
+    border-collapse: collapse;
+}
+
+.imgStyle{
+    cursor:pointer;
+}
+
+.tdStyle{
+    font-family:verdana;
+    font-size:25px;
+    color:white
+}
+
+a:hover {
+    color: grey;
+}
+
+.activeClass {
+   color: white;
+   text-decoration: none!important;
+}
